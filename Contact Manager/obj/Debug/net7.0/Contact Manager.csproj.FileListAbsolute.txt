@@ -1,0 +1,81 @@
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\appsettings.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Contact Manager.exe
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Contact Manager.deps.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Contact Manager.runtimeconfig.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Contact Manager.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Contact Manager.pdb
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.AssemblyReference.cache
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.AssemblyInfoInputs.cache
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.AssemblyInfo.cs
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.CoreCompileInputs.cache
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.Contact Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Contact Manager.props
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Contact Manager.props
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Contact Manager.props
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\scopedcss\bundle\Contact Manager.styles.css
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.CopyComplete
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\refint\Contact Manager.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.pdb
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\Contact Manager.genruntimeconfig.cache
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\obj\Debug\net7.0\ref\Contact Manager.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Npgsql.dll
+C:\Users\S63724\source\repos\Contact Manager\Contact Manager\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\appsettings.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Contact Manager.exe
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Contact Manager.deps.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Contact Manager.runtimeconfig.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Contact Manager.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Contact Manager.pdb
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Npgsql.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.AssemblyReference.cache
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.AssemblyInfoInputs.cache
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.AssemblyInfo.cs
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.CoreCompileInputs.cache
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.Contact Manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Contact Manager.props
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Contact Manager.props
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Contact Manager.props
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\scopedcss\bundle\Contact Manager.styles.css
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.csproj.CopyComplete
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\refint\Contact Manager.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.pdb
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\Contact Manager.genruntimeconfig.cache
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\obj\Debug\net7.0\ref\Contact Manager.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Humanizer.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\S63724\source\repos\ContactManager\Contact Manager\bin\Debug\net7.0\System.CodeDom.dll
